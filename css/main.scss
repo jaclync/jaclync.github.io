@@ -6,16 +6,18 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Josefin Sans', sans-serif;;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$header-content-height: 100px;
+
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #d8d8d8;
+$background-color: #0e171b;
+$brand-color:      #7FAFED;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -50,3 +52,5 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic|Roboto+Condensed:300italic,400italic,700italic,400,300,700);
