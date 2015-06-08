@@ -16,10 +16,84 @@ permalink: /projects/
   {% endfor %}
 </ul> -->
 
-<table width="100%" border="0" cellspacing="1" cellpadding="2">
+<table width="100%" border="0" cellspacing="10" cellpadding="2">
   <tr>
     <td colspan="2">
-      <div align="center">
+      <div class="table-header" align="center">
+        <p>
+          <strong>Street Sweep - San Francisco Parking</strong>
+          <br/>
+          url/ <a href="https://itunes.apple.com/us/app/street-sweep-san-francisco/id965579655?ls=1&mt=8">App Store </a>
+          <br/>
+          w/ Tony Cosentini
+          <br/>
+          2014 spare time
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="350">
+      <div class="image-container">
+        <img src="/images/projects/streetsweep_1.png" alt="Climbly filters" width="170" />
+      </div>
+      <div class="image-container">
+        <img src="/images/projects/streetsweep_2.png" alt="VGA_Animation" width="170" />
+      </div>
+    </td>
+    <td>
+      <p>
+        Living in San Francisco with a car and street parking is not easy.
+        After getting a few parking tickets from forgetting to move my car for street sweeping hours, I started doing these manually -
+      </p>
+      <ul>
+        <li>Park where I can leave it for the longest</li>
+        <li>Remember where I park</li>
+        <li>Remind myself to move the car</li>
+      </ul>
+      <p>
+        Instead of checking calendar / calculating how many days I can leave my car / dropping a pin on Google maps and SMS to myself,
+        we made an iOS app that streamlines the work above.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div class="table-header" align="center">
+        <p>
+          <strong>College Tasting</strong>
+          <br/>
+          url/ <a href="http://rpi.climbly.com/">Climbly x RPI Beta</a>
+          <br/>
+          w/ Climbly team
+          <br/>
+          2013-2014 spare time
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="350">
+      <p align="center">
+        <img src="/images/projects/climbly_rpi_header.png" alt="Climbly header" width="200" />
+      </p>
+      <p align="center">
+        <img src="/images/projects/climbly_filter.png" alt="Climbly filters" width="150" />
+      </p>
+    </td>
+    <td>
+      <p>
+        Before coming to the Bay Area for grad school, I asked around and got helpful insights before making a decision where to go.
+        Other Climbly members had similar experiences. What if there is a platform where reaching out to people at school is easy, like college tasting?
+        We developed a web app using Google App Engine that allows applicants to schedule an online chat with an "ambassador" from the school.
+        Filters are helpful for finding ambassadors with specific backgrounds.
+        We collaborated with RPI to launch our pilot, with about 10 ambassadors to answer questions from students and applicants.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div class="table-header" align="center">
         <p>
           <strong>Safe Driving</strong>
           <br/>
@@ -71,7 +145,7 @@ permalink: /projects/
   </tr>
   <tr>
     <td colspan="2">
-      <div align="center">
+      <div class="table-header" align="center">
         <p>
           <strong>Who Moved My Bike ?</strong>
           <br/>
