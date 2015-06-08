@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects
 title: projects
 permalink: /projects/
 ---
@@ -83,9 +83,9 @@ permalink: /projects/
     </td>
     <td>
       <p>
-        Before coming to the Bay Area for grad school, I asked around and got helpful insights before making a decision where to go.
+        Before coming to the Bay Area for grad school, I asked around and got helpful insights from connections I had before making a decision where to go.
         Other Climbly members had similar experiences. What if there is a platform where reaching out to people at school is easy, like college tasting?
-        We developed a web app using Google App Engine that allows applicants to schedule an online chat with an "ambassador" from the school.
+        We developed a web app using Google App Engine that allows students to schedule an online chat with an "ambassador" from the school.
         Filters are helpful for finding ambassadors with specific backgrounds.
         We collaborated with RPI to launch our pilot, with about 10 ambassadors to answer questions from students and applicants.
       </p>
