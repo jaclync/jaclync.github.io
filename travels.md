@@ -4,8 +4,19 @@ title: travels
 permalink: /travels/
 ---
 
-USA
-California
+Amsterdam, Netherlands
+[16' Sep](https://www.flickr.com/photos/29509902@N02/albums/72157675907915735)
+
+Gent, Belgium
+[16' Sep](https://www.flickr.com/photos/29509902@N02/albums/72157674497643131)
+
+Paris, France
+[16' Sep](https://www.flickr.com/photos/29509902@N02/albums/72157671798779574)
+
+Costa Rica
+[15' Thanksgiving](https://www.flickr.com/photos/29509902@N02/albums/72157660098411394)
+
+Monterey, California, USA
 [15' Jan, Monterey & Big Sur](https://goo.gl/photos/MrxieqMAjM5C9FQC7)
 
 Taiwan
