@@ -23,7 +23,7 @@ permalink: /projects/
         <p>
           <strong>Street Sweep - San Francisco Parking</strong>
           <br/>
-          url/ <a href="https://itunes.apple.com/us/app/street-sweep-san-francisco/id965579655?ls=1&mt=8">App Store </a>
+          url/ <a href="https://itunes.apple.com/us/app/street-sweep-san-francisco/id1170815127?l=zh&ls=1&mt=8">App Store </a>
           <br/>
           w/ Tony Cosentini
           <br/>
