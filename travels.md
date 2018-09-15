@@ -4,6 +4,15 @@ title: travels
 permalink: /travels/
 ---
 
+Beijing, China
+[18' June](https://www.flickr.com/photos/jaclynchen/albums/72157698504443545)
+
+Sevilla, Spain
+[17' Thanksgiving](https://www.flickr.com/photos/jaclynchen/albums/72157693553289630)
+
+Madrid, Spain
+[17' Thanksgiving](https://www.flickr.com/photos/jaclynchen/albums/72157691294458352)
+
 Marrakech / Sahara, Morocco
 [17' Thanksgiving](https://www.flickr.com/photos/jaclynchen/sets/72157665278498678)
 
