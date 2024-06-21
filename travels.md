@@ -4,6 +4,75 @@ title: travels
 permalink: /travels/
 ---
 
+Kyoto, Japan
+[23' Oct](https://www.flickr.com/photos/jaclynchen/albums/72177720316705521)
+
+Nara, Japan
+[23' Oct](https://www.flickr.com/photos/jaclynchen/albums/72177720315821746/)
+
+Osaka, Japan
+[23' Oct](https://www.flickr.com/photos/jaclynchen/albums/72177720314361687/)
+
+Tokyo, Japan
+[23' June](https://www.flickr.com/photos/jaclynchen/albums/72177720310759931/)
+
+Tokyo, Japan
+[22' Dec](https://www.flickr.com/photos/jaclynchen/albums/72177720307243491/)
+
+Chicago, USA
+[20' Mar](https://www.flickr.com/photos/jaclynchen/albums/72157714800164826/)
+
+Kobe, Japan
+[19' Nov](https://www.flickr.com/photos/jaclynchen/albums/72157714033226087/)
+
+Nara, Japan
+[19' Nov](https://www.flickr.com/photos/jaclynchen/albums/72157712631713948/)
+
+Osaka, Japan
+[19' Nov](https://www.flickr.com/photos/jaclynchen/albums/72157713127184476/)
+
+Bologna, Italy
+[19' Oct](https://www.flickr.com/photos/jaclynchen/albums/72157716039792903/)
+
+Venice, Italy
+[19' Oct](https://www.flickr.com/photos/jaclynchen/albums/72157712442629501/)
+
+Rome, Italy
+[19' Oct](https://www.flickr.com/photos/jaclynchen/albums/72157718463892692/)
+
+Playa del Carmen, Mexico
+[19' July](https://www.flickr.com/photos/jaclynchen/albums/72157711024509452/)
+
+Palau
+[19' Feb](https://www.flickr.com/photos/jaclynchen/albums/72157703997614952/)
+
+Yokohama, Japan
+[18' Dec](https://www.flickr.com/photos/jaclynchen/albums/72157717555097578/)
+
+Tokyo, Japan
+[18' Dec](https://www.flickr.com/photos/jaclynchen/albums/72157709932821472/)
+
+Enoshima & Kamakura, Japan
+[18' Dec](https://www.flickr.com/photos/jaclynchen/49094540773/in/album-72157711862058458/)
+
+Hong Kong
+[18' July](https://www.flickr.com/photos/jaclynchen/albums/72157711402666318/)
+
+Shenzhen, China
+[18' June](https://www.flickr.com/photos/jaclynchen/albums/72157708780833557/)
+
+Shanghai, China
+[18' June](https://www.flickr.com/photos/jaclynchen/albums/72157678219918257/with/47048636114)
+
+Shanghai, China
+[18' June](https://www.flickr.com/photos/jaclynchen/albums/72157678219918257/with/47048636114)
+
+Chengdu, China
+[18' June](https://www.flickr.com/photos/jaclynchen/albums/72157697655567570/)
+
+Chengdu, China
+[18' June](https://www.flickr.com/photos/jaclynchen/albums/72157697655567570/)
+
 Beijing, China
 [18' June](https://www.flickr.com/photos/jaclynchen/albums/72157698504443545)
 
